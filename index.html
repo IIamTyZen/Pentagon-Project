@@ -8,7 +8,7 @@
 
 
         <!-- ===== CSS ===== -->
-        <link rel="stylesheet" href="assets/css/styles.css">
+        <link rel="stylesheet" href="assets/css/dark_styles.css" id="theme_change">
 
         <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
@@ -23,9 +23,12 @@
             <div class="left-side">
                 <h1 class="title">PENTAGON FINANCE</h1>
             </div>
-            
-            <div class="right-side">
-                <button class="launch" onclick="window.location.href='https://app.pentagon.financial/node';">LAUNCH APP</button>
+
+            <div class="right-side-header">
+                <a><img src="/assets/img/sun.png" alt="" onclick="toggle()" id="change_img"></a>
+                <div class="right-side">
+                    <button class="launch" onclick="window.location.href='https://app.pentagon.financial/node';">LAUNCH APP</button>
+                </div>
             </div>
             
         </header>
