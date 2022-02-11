@@ -160,7 +160,7 @@ button{
 
 .launch:hover{
   transition: 0.4s;
-  background: url(/assets/img/rocket_launch_purplue.png) center / cover no-repeat;
+  background: url(/assets/img/rocket_launch_purple.png) center / cover no-repeat;
   background-size: 18%;
   background-position: left;
 }
