@@ -24,12 +24,13 @@
 
 ## My process
 
-I started by structuring my HTML to fill my css variables and then code all the CSS and JS
+I started by structuring my HTML to fill my css variables and then code all the CSS and JS for switch to light/dark theme 
 
 ### Built with
 
 - HTML5 
 - CSS 
+- JS
 - Flexbox
 - Media queries 
 
